@@ -16,6 +16,13 @@ A solução utiliza **IA Generativa** para interpretar perguntas em português e
 * **Segurança (Least Privilege):** Agente de IA configurado com permissões de apenas leitura para garantir a integridade dos dados.
 * **Arquitetura de Agentes:** Uso de LangChain para orquestrar a decisão de rotas entre as diferentes fontes de dados.
 
+## 📚 Fundamentação Teórica
+O projeto baseia-se no conceito de **Polyglot Persistence**, termo cunhado por **Scott Leberknight** em 2008. 
+A arquitetura utiliza o banco de dados ideal para cada tipo de carga de trabalho:
+- **PostgreSQL**: Para dados transacionais e consistência.
+- **MongoDB**: Para dados semiestruturados e escalabilidade de leitura.
+O diferencial desta implementação é o uso de **IA Generativa** para abstrair a complexidade de consultar esses múltiplos motores.
+
 ## 🛠️ Arquitetura do Sistema
 O fluxo de dados segue a seguinte lógica:
 1. O usuário faz uma pergunta (ex: "Qual o faturamento do produto mais bem avaliado?").
