@@ -36,4 +36,4 @@ O fluxo de dados segue a seguinte lógica:
 ## 🔧 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/jana-nf/Projeto_Integrador_DemoBI_LLM_Persistencia_Poliglota](https://github.com/seu-usuario/nome-do-projeto.git)
+   git clone [https://github.com/jana-nf/Projeto_Integrador_DemoBI_LLM_Persistencia_Poliglota](https://github.com/jana-nf/Projeto_Integrador_DemoBI_LLM_Persistencia_Poliglota/tree/main)
