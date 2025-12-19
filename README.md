@@ -7,7 +7,7 @@
 
 ## 📌 Visão Geral
 
-Este projeto foi desenvolvido como **Projeto Integrador** para o curso de Tecnologia em Banco de Dados. O objetivo central é resolver o gargalo de acesso a dados em empresas de E-commerce, através de uma solução de **Business Intelligence (BI) Cognitivo**permitindo que gestores sem conhecimento técnico extraiam insights estratégicos utilizando linguagem natural.
+Este projeto foi desenvolvido como **Projeto Integrador** para o curso de Tecnologia em Banco de Dados. O objetivo central é resolver o gargalo de acesso a dados em empresas de E-commerce, através de uma solução de **Business Intelligence (BI) Cognitivo** permitindo que gestores sem conhecimento técnico extraiam insights estratégicos utilizando linguagem natural.
 
 A solução baseia-se no conceito de **Persistência Poliglota**, utilizando o banco de dados ideal para cada tipo de carga de trabalho, e utiliza a técnica de **RAG (Retrieval-Augmented Generation)** para conectar uma LLM (IA) aos dados privados da empresa.
 
