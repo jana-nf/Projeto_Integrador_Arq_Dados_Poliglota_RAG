@@ -27,3 +27,5 @@ O sistema opera através de três camadas de dados coordenadas por um Agente de 
 
 ## 📚 Fundamentação Teórica
 O projeto implementa as teses de **Scott Leberknight (2008)** sobre a necessidade de sistemas poliglotas, onde a eficiência é alcançada ao não forçar todos os dados em um único modelo relacional. A camada de IA atua como o "tradutor universal" que resolve a complexidade de integração dessas fontes.
+
+## Link do PI: https://docs.google.com/document/d/1IQ3E2dk7tTuVCibA8bab7dfXtHU5LGBArQrFtiWjrZk/edit?tab=t.0 
